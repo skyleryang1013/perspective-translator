@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perspective Translator"
+  short_description: "Translate conversation misunderstandings"
+  default_prompt: "Use $perspective-translator to analyze this conversation or event."
