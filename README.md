@@ -9,7 +9,7 @@ A Codex skill for turning a confusing conversation or event into a clearer map o
 - decision-relevant unknowns
 - one high-value follow-up question
 
-It accepts text, up to five user-attached screenshots, and relevant relationship context from the conversation. When relationship status or purpose is missing and would change the reading, it asks a few focused questions first. It preserves user-provided MBTI and other background as low-weight context rather than deleting it, does not claim to read minds, and does not diagnose people.
+It accepts text, up to five user-attached screenshots, and relevant relationship context from the conversation. For screenshot or relationship/communication questions, it first asks for the user's side, the relationship status, and the user's goal unless the user explicitly requests a screenshot-only reading. MBTI and other background are optional low-weight context and are never silently deleted. It does not claim to read minds or diagnose people.
 
 ## Use in Codex
 
